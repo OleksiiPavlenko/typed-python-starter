@@ -42,3 +42,4 @@ tests/
 ```
 # typed-python-starter
 # typed-python-starter
+# typed-python-starter
